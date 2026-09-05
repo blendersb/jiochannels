@@ -1,0 +1,12 @@
+{
+		"https://jiotv3.blendersbd.workers.dev",
+		"https://jiotv2.blendersbd.workers.dev",
+		"https://jiotv4.blendersbd.workers.dev",
+		"https://raw.githubusercontent.com/sixpg/zeyo-test/refs/heads/main/jtv.m3u",
+		"https://raw.githubusercontent.com/sixpg/zeyo/refs/heads/main/jtv.m3u",
+		"https://jiotv5.blendersbd.workers.dev",
+		"https://jiotv6.blendersbd.workers.dev",
+		"https://jiotv-jitendra.blendersbd.workers.dev",
+		"https://raw.githubusercontent.com/blendersb/jiotvgo/refs/heads/main/playlist.m3u",
+    "https://raw.githubusercontent.com/blendersb/tv/refs/heads/main/playlist.m3u"
+	}
