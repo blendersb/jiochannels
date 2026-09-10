@@ -5,6 +5,7 @@
 "https://jiotv6.blendersbd.workers.dev",
 "https://jiotv9.blendersbd.workers.dev",
 "https://jiotv10.blendersbd.workers.dev",
+"https://jiotv11.blendersbd.workers.dev",
 "https://jiotv-jitendra.blendersbd.workers.dev",
 "https://raw.githubusercontent.com/sixpg/zeyo-test/refs/heads/main/jtv.m3u",
 "https://raw.githubusercontent.com/sixpg/zeyo/refs/heads/main/jtv.m3u",
