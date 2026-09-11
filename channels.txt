@@ -5764,15 +5764,6 @@
     "id": "1612",
     "category": "Bengali",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Tara_TV_MOB/WDVLive/index.mpd",
-    "keyId": "null",
-    "key": "null",
-    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Tara_TV.png"
-  },
-{
-    "name": "Tara TV DRM",
-    "id": "1612*",
-    "category": "Bengali",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Tara_TV_MOB/WDVLive/index.mpd",
     "keyId": "4f16590dc77d5ae39381f7a299cbfbaf",
     "key": "af97ce2ffafa83d1b2ba1a80dea1df45",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Tara_TV.png"
