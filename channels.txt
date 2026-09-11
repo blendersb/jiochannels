@@ -9389,7 +9389,7 @@
   {
     "name": "ZB Music",
     "id": "3319",
-    "category": "Unknown",
+    "category": "Bengali,Music",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/zbmusic/HLSPartner/index.m3u8",
     "keyId": "null",
     "key": "null",
@@ -9398,7 +9398,7 @@
   {
     "name": "ZB Bhakti",
     "id": "3320",
-    "category": "Unknown",
+    "category": "Bengali",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/zbbhakti/HLSPartner/index.m3u8",
     "keyId": "null",
     "key": "null",
@@ -9407,7 +9407,7 @@
   {
     "name": "ZB Cartoon",
     "id": "3321",
-    "category": "Unknown",
+    "category": "Bengali,Kids",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/zbcatun/HLSPartner/index.m3u8",
     "keyId": "null",
     "key": "null",
@@ -9416,7 +9416,7 @@
   {
     "name": "ZB Cinema",
     "id": "3322",
-    "category": "Unknown",
+    "category": "Bengali,Movies",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZBCINEMA/HLSPartner/index.m3u8",
     "keyId": "null",
     "key": "null",
@@ -9488,7 +9488,7 @@
   {
     "name": "STV Bangla",
     "id": "3331",
-    "category": "Unknown",
+    "category": "Bengali",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/sailendar/HLSPartner/index.m3u8",
     "keyId": "null",
     "key": "null",
@@ -10334,7 +10334,7 @@
   {
     "name": "Zee Bangla Sonar",
     "id": "3476",
-    "category": "Unknown",
+    "category": "Bengali,Movies",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeBanglaSonar_MOB/WDVLive/index.mpd",
     "keyId": "05dcf4433e055e2f960e8ac859afbec4",
     "key": "75a1ab16efc8145bea71a71f39c8eb04",
