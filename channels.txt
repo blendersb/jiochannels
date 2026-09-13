@@ -22,8 +22,10 @@
     "id": "146",
     "category": "English",
     "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/WDVLive/index.mpd",
-    "keyId": "0172b8cd13ed59349a05aadc58ae11e0",
-    "key": "e4ab7836617767a2a6e7aaae17fad2b6",
+    "keyId": "e5105a616fb95ce48dbde4fe9d7960ad",
+    "keyId1": "0172b8cd13ed59349a05aadc58ae11e0",
+    "key1": "e4ab7836617767a2a6e7aaae17fad2b6",
+    "key": "272d2bcff8430174fdd5aaf6f93abb6b",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png"
   },
   {
@@ -4882,8 +4884,10 @@
     "id": "1335",
     "category": "English",
     "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/WDVLive/index.mpd",
-    "keyId": "4b006dd7965e5777a7fa33dd636c2e5d",
-    "key": "179f796bdf11b750bebd469a3aeae1d0",
+    "keyId1": "4b006dd7965e5777a7fa33dd636c2e5d",
+    "keyId": "c3af1f24c63a5cc2bf71921eed28d1ff",
+    "key1": "179f796bdf11b750bebd469a3aeae1d0",
+    "key": "80f4de40d7603bd8e45fe41db53f5198",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png"
   },
   {
