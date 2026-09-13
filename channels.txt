@@ -4170,7 +4170,7 @@
     "name": "Star Movies Select HD",
     "id": "1110",
     "category": "English",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_MOB/WDVLive/index.m3u8",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_MOB/WDVLive/index.mpd",
     "keyId": "ee96dad500c4537390df63f0f2c8de60",
     "key": "f6bee36ddb86f9c24def2a4a8df19e8e",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png"
@@ -9165,7 +9165,7 @@
     "name": "Star Movies Select",
     "id": "3276",
     "category": "English",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/WDVLive/index.mpd",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/WDVLive/index.m3u8",
     "keyId": "4b7d579e28d45041ba78c3a92f0acc92",
     "key": "fbf33acfca489b1354955cbfb09570b5",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select.png"
