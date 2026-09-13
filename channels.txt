@@ -4875,8 +4875,10 @@
     "id": "1332",
     "category": "English",
     "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/WDVLive/index.mpd",
-    "keyId": "45fc661aa1af51c98950c43329391d18",
-    "key": "c2677c874886e78d24b3fb656c5734e0",
+    "keyId1": "45fc661aa1af51c98950c43329391d18",
+    "keyId": "999ce48f3e4d5de8b72c34f213176d9e",
+    "key1": "c2677c874886e78d24b3fb656c5734e0",
+    "key": "13e3ca891d32d158d8108007fef88388"
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png"
   },
   {
