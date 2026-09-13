@@ -4210,7 +4210,7 @@
     "name": "Star Movies",
     "id": "1115",
     "category": "English",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.m3u8",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/WDVLive/index.mpd",
     "keyId": "e705c9330a935a119021d97c7677ce62",
     "key": "dd306a57de1715b0e1256d5c1737f485",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies.png"
