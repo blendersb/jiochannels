@@ -60,8 +60,10 @@
     "id": "164",
     "category": "English",
     "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/WDVLive/index.mpd",
-    "keyId": "021bd4635e8653bca6830adaca183b14",
-    "key": "035ec746d6ee0d39cb7cb15963da8424",
+    "keyId1": "021bd4635e8653bca6830adaca183b14",
+    "keyId": "157cd1bd71a256fe8ab763ba280320e5",
+    "key1": "035ec746d6ee0d39cb7cb15963da8424",
+    "key": "6befde8b90b6926423cc83775b8dcb59",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png"
   },
   {
