@@ -1,6 +1,6 @@
 {
   "zee5": [
-    "https://zee5api.broshoeb58.workers.dev/",
+    "https://zee5api.broshoeb58.workers.dev/"
   ],
   "fancode": [
     "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u"
@@ -8,7 +8,7 @@
   "sonyliv":[
     "https://raw.githubusercontent.com/tg-aadi/content/refs/heads/main/sonyliv.m3u"
   ],
-  "sports":[
+  "sports": [
     "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u",
     "https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u",
     "https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.m3u",
