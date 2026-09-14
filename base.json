@@ -1,12 +1,12 @@
 {
   "zee5": {
-    "https://zee5api.broshoeb58.workers.dev/",
+    "https://zee5api.broshoeb58.workers.dev/"
     },
   "fancode": {
-    "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u",
+    "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u"
   },
   "sonyliv":{
-    "https://raw.githubusercontent.com/tg-aadi/content/refs/heads/main/sonyliv.m3u",
+    "https://raw.githubusercontent.com/tg-aadi/content/refs/heads/main/sonyliv.m3u"
   },
   "sports":{
     "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u",
@@ -15,12 +15,12 @@
     "https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u",
     "https://raw.githubusercontent.com/srhady/CricketLive/refs/heads/main/playlist.m3u",
     "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u",
-    "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u",
+    "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u"
   },
   "jiotv":{
     "channels": "https://raw.githubusercontent.com/blendersb/jiochannels/refs/heads/main/channels.txt",
-    "playlist": "https://raw.githubusercontent.com/blendersb/jiochannels/refs/heads/main/playlist.txt",
+    "playlist": "https://raw.githubusercontent.com/blendersb/jiochannels/refs/heads/main/playlist.txt"
        
-  },
+  }
     
 }
