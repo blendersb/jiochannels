@@ -6,6 +6,7 @@
     "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u"
   ],
   "sonyliv":[
+    "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u",
     "https://raw.githubusercontent.com/tg-aadi/content/refs/heads/main/sonyliv.m3u"
   ],
   "sports": [
