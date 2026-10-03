@@ -6,6 +6,8 @@
     "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u"
   ],
   "sonyliv":[
+    "https://premiumplugx.com/Sliv/sony_playlist.php?m3u",
+    "https://raw.githubusercontent.com/doctor-8trange/zyphora/refs/heads/main/data/sony.m3u",
     "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u",
     "https://raw.githubusercontent.com/tg-aadi/content/refs/heads/main/sonyliv.m3u"
   ],
