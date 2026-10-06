@@ -12,5 +12,6 @@
 "https://raw.githubusercontent.com/sixpg/zeyo-test/refs/heads/main/jtv.m3u",
 "https://raw.githubusercontent.com/sixpg/zeyo/refs/heads/main/jtv.m3u",
 "https://raw.githubusercontent.com/blendersb/jiotvgo/refs/heads/main/playlist.m3u",
-"https://raw.githubusercontent.com/blendersb/tv/refs/heads/main/playlist.m3u"
+"https://raw.githubusercontent.com/blendersb/tv/refs/heads/main/playlist.m3u",
+"https://raw.githubusercontent.com/Diljan707/Automated-/refs/heads/main/JioTV_Auto.m3u"
 }
