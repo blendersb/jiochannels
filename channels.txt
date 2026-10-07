@@ -6752,9 +6752,11 @@
     "name": "Star Sports 1 Hindi",
     "id": "362",
     "category": "Sports",
-    "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd",
-    "keyId": "8ea9b607549252068e260a5f4d7dd321",
-    "key": "350c0aaffedf51cc1502e9543c7c885e",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mpd",
+    "keyId1": "8ea9b607549252068e260a5f4d7dd321",
+    "key1": "350c0aaffedf51cc1502e9543c7c885e",
+    "keyId": "187e53dccc7c50f5b43306635bc93adb",
+    "key": "72f9a4a4ff898de730991ae465d06388",
     "logo": "https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg"
   },
   {
