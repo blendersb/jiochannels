@@ -6771,8 +6771,10 @@
     "id": "1109",
     "category": "Sports",
     "url": "https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd",
-    "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
-    "key": "e620a970cea474c491ac78ae71a4d764",
+    "keyId1": "9457eb90129456fa8ea95e10ba4ac51e",
+    "key1": "e620a970cea474c491ac78ae71a4d764",
+    "keyId": "b99144f27b865d6ba1007fead82b2783",
+    "key":"b2f10f09a771327b9bc69484d78e4595",
     "logo": "https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg"
   },
   {
