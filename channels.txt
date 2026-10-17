@@ -2270,7 +2270,7 @@
         "key": "fc32f26239054b56aab48225305598fe",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBangla.png",
         "multikey": {
-            "1df83e058b864da896c9288eef63b113": "fc32f26239054b56aab48225305598fe"
+            "811e683089455a1fa9c7e0d5d2bdb5fd": "2782858ad6e8d5a7964ddcd7c2cdb207"
         }
     },
     {
