@@ -1,6 +1,7 @@
 {
   "zee5": [
-    {"name": "Zee5", "enable":true, "type": "m3u", "url":"https://premiumplugx.me/vzy/playlist.php"}
+    {"name": "Zee5", "enable":true, "type": "m3u", "url":"https://premiumplugx.me/vzy/playlist.php"},
+    {"name": "Zee5 Old", "enable":false, "type": "json", "url":"https://zee5api.broshoeb58.workers.dev/"}
   ],
   "fancode": [
     {"name": "Fancode", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u"}
