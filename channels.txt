@@ -8797,7 +8797,8 @@
     {
         "name": "Zee Bangla HD",
         "id": "1977",
-        "category": "Bengali",
+        "category": "Entertainment",
+        "language" : "Bengali",
         "url1": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeBanglaHD_MOB/WDVLive/index.mpd",
         "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeBanglaHD_BTS/WDVLive/index.mpd",
         "keyId1": "91159e05d6c45bcc9586a6358fa2fbf9",
@@ -9435,7 +9436,8 @@
     {
         "name": "Raatdin Bangla",
         "id": "2027",
-        "category": "Bengali",
+        "category": "News",
+        "language": "Bengali",
         "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/raatdinbangla/HLSPartner/index.m3u8",
         "keyId": "null",
         "key": "null",
