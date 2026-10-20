@@ -1,30 +1,30 @@
 {
   "zee5": [
-    {"name": "Zee5", "enable":true, "url":"https://premiumplugx.me/vzy/playlist.php"}
+    {"name": "Zee5", "enable":true, "type": "m3u", "url":"https://premiumplugx.me/vzy/playlist.php"}
   ],
   "fancode": [
-    {"name": "Fancode", "enable":true, "url":"https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u"}
+    {"name": "Fancode", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u"}
   ],
   "sonyliv":[
-    {"name": "SonyLiv1", "enable":true, "url":"https://premiumplugx.com/Sliv/sony_playlist.php?m3u"},
-    {"name": "SonyLiv2", "enable":true, "url": "https://raw.githubusercontent.com/doctor-8trange/zyphora/refs/heads/main/data/sony.m3u"},
-    {"name": "SonyLiv3", "enable":true, "url":"https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u"},
-    {"name": "SonyLiv4", "enable":true, "url":"https://raw.githubusercontent.com/tg-aadi/content/refs/heads/main/sonyliv.m3u"}
+    {"name": "SonyLiv1", "enable":true, "type": "m3u", "url":"https://premiumplugx.com/Sliv/sony_playlist.php?m3u"},
+    {"name": "SonyLiv2", "enable":true, "type": "m3u", "url": "https://raw.githubusercontent.com/doctor-8trange/zyphora/refs/heads/main/data/sony.m3u"},
+    {"name": "SonyLiv3", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u"},
+    {"name": "SonyLiv4", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/tg-aadi/content/refs/heads/main/sonyliv.m3u"}
   ],
   "sports": [
-    {"name": "Hotstar", "enable":false, "url":"https://premiumplugx.com/htt/hot.php?playlist=1"},
-    {"name": "Sports1", "enable":true, "url":"https://raw.githubusercontent.com/sportlive18/playlist/refs/heads/main/Combined.m3u"},
-    {"name": "Sports2", "enable":true, "url":"https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u"},
-    {"name": "Sports3", "enable":true, "url":"https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u"},
-    {"name": "Sports4", "enable":true, "url":"https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.m3u"},
-    {"name": "Sports5", "enable":true, "url":"https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u"},
-    {"name": "Sports6", "enable":true, "url":"https://raw.githubusercontent.com/srhady/CricketLive/refs/heads/main/playlist.m3u"},
-    {"name": "Sports7", "enable":true, "url":"https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u"},
-    {"name": "Sports8", "enable":true, "url":"https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u"}
+    {"name": "Hotstar", "enable":false, "type": "m3u", "url":"https://premiumplugx.com/htt/hot.php?playlist=1"},
+    {"name": "Sports1", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/sportlive18/playlist/refs/heads/main/Combined.m3u"},
+    {"name": "Sports2", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u"},
+    {"name": "Sports3", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/srhady/axsports/refs/heads/main/playlist.m3u"},
+    {"name": "Sports4", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.m3u"},
+    {"name": "Sports5", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u"},
+    {"name": "Sports6", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/srhady/CricketLive/refs/heads/main/playlist.m3u"},
+    {"name": "Sports7", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u"},
+    {"name": "Sports8", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/primevideo_sports.m3u"}
   ],
   "jiotvplus":[
-    {"name": "Jiotv 1", "enable":true, "url":"https://raw.githubusercontent.com/sixpg/zeyo-test/refs/heads/main/jtv.m3u"},
-    {"name": "Jiotv 2", "enable":true, "url":"https://raw.githubusercontent.com/sixpg/zeyo/refs/heads/main/jtv.m3u"},
+    {"name": "Jiotv 1", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/sixpg/zeyo-test/refs/heads/main/jtv.m3u"},
+    {"name": "Jiotv 2", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/sixpg/zeyo/refs/heads/main/jtv.m3u"},
   ],
   "jiotv":{
     "channels": "https://raw.githubusercontent.com/blendersb/jiochannels/refs/heads/main/channels.txt",
