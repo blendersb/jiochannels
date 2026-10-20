@@ -25,7 +25,7 @@
   ],
   "jiotvplus":[
     {"name": "Jiotv 1", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/sixpg/zeyo-test/refs/heads/main/jtv.m3u"},
-    {"name": "Jiotv 2", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/sixpg/zeyo/refs/heads/main/jtv.m3u"},
+    {"name": "Jiotv 2", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/sixpg/zeyo/refs/heads/main/jtv.m3u"}
   ],
   "jiotv":{
     "channels": "https://raw.githubusercontent.com/blendersb/jiochannels/refs/heads/main/channels.txt",
