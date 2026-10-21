@@ -13,6 +13,7 @@
     {"name": "SonyLiv4", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/tg-aadi/content/refs/heads/main/sonyliv.m3u"}
   ],
   "sports": [
+    {"name": "BD", "enable":true, "type": "m3u", "url":"https://bd-rslivetv.blendersbd.workers.dev/"},
     {"name": "Hotstar", "enable":false, "type": "m3u", "url":"https://premiumplugx.com/htt/hot.php?playlist=1"},
     {"name": "Sports1", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/sportlive18/playlist/refs/heads/main/Combined.m3u"},
     {"name": "Sports2", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u"},
