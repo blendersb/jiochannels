@@ -3,6 +3,7 @@
 "https://jiotv3.blendersbd.workers.dev",
 "https://jiotv5.blendersbd.workers.dev",
 "https://jiotv6.blendersbd.workers.dev",
+"https://jiotv7.blendersbd.workers.dev",
 "https://jiotv9.blendersbd.workers.dev",
 "https://jiotv10.blendersbd.workers.dev",
 "https://jiotv11.blendersbd.workers.dev",
