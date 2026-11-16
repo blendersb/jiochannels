@@ -2457,10 +2457,13 @@
     "key": "fc32f26239054b56aab48225305598fe",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBangla.png",
     "keyType": "",
-    "multikey": {
+    "multikey1": {
       "811e683089455a1fa9c7e0d5d2bdb5fd": "2782858ad6e8d5a7964ddcd7c2cdb207",
       "1df83e058b864da896c9288eef63b113": "fc32f26239054b56aab48225305598fe"
-    }
+    },
+   "multikey": {
+"262c8a7db765583cb27243f845df16be":"a8832013a033db05c93eef7dccfb095d","af93791bc5ed590b900ea8554625bc0f":"ff0ed9d7dce38d4e2c3af96073009524","85496f5fb1b75c35845bced8e148574c":"810e94364a8112a240c9bafe82c1d5e1","4dc41c2242de56e088679fe9bf20c887":"1ceb95febc44da9253169497ad036ff5","2d8a1710b12d52199dc503509a7bb8d0":"b23d47cbac1b02618bffe71bfaf305a0"
+   }
   },
   {
     "name": "Suvarna News",
