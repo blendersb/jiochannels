@@ -11,6 +11,7 @@
 "https://jiotv-jitendra.blendersbd.workers.dev",
 "https://jiobkl.ytzinadabaad.workers.dev",
 "https://hjh-545.pages.dev/",
+"https://premiumplugx.top/mylive/playlist.php",
 "https://raw.githubusercontent.com/sixpg/zeyo-test/refs/heads/main/jtv.m3u",
 "https://raw.githubusercontent.com/sixpg/zeyo/refs/heads/main/jtv.m3u",
 "https://raw.githubusercontent.com/blendersb/jiotvgo/refs/heads/main/playlist.m3u",
