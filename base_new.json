@@ -16,7 +16,7 @@
     {"name": "BD", "enable":false, "type": "m3u", "url":"https://bd-rslivetv.blendersbd.workers.dev/"},
     {"name": "RS JagoBD", "enable":false, "type": "m3u", "url":"https://raw.githubusercontent.com/sm-monirulislam/jago_bd_auto_update_playlist-/refs/heads/main/jago_bd_main.m3u"},
     {"name": "RS AynaOTT", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/sm-monirulislam/AynaOTT_Auto_Update_Playlist/refs/heads/main/aynaott.m3u"},
-    {"name": "RS Tofee", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update/refs/heads/main/toffee_playlist.m3u"},
+    {"name": "RS Tofee", "enable":false, "type": "m3u", "url":"https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update/refs/heads/main/toffee_playlist.m3u"},
     {"name": "RS Sports", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/jannatulbusra000/Sports-Playlist/refs/heads/main/sports.m3u"},
     {"name": "RS Tapmad", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/sm-monirulislam/Tapmad_Auto_Update_Playlist/refs/heads/main/tapmad_sm.m3u"},
     {"name": "Hotstar", "enable":false, "type": "m3u", "url":"https://premiumplugx.com/htt/hot.php?playlist=1"},
