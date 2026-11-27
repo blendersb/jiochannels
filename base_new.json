@@ -4,7 +4,8 @@
     {"name": "Zee5 Old", "enable":false, "type": "json", "url":"https://zee5api.broshoeb58.workers.dev/"}
   ],
   "fancode": [
-    {"name": "Fancode", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u"}
+    {"name": "Fancode", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u"},
+    {"name": "Fancode", "enable":true, "type": "m3u", "url":"https://raw.githubusercontent.com/kajju027/Fancode-Events-Json/refs/heads/main/fc.m3u"}
   ],
   "sonyliv":[
     {"name": "SonyLiv1", "enable":true, "type": "m3u", "url":"https://premiumplugx.com/Sliv/sony_playlist.php?m3u"},
